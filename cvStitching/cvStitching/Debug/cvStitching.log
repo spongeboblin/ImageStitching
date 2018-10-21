@@ -1,0 +1,11 @@
+﻿生成启动时间为 2017/2/19 2:25:28。
+     1>项目“E:\上课材料和作业\计算机\计算机视觉\研究生\Final1\ImageStitching_3140103549\Code\cvStitching\cvStitching\cvStitching.vcxproj”在节点 2 上(ClCompile 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IF:\opencv\build\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt cvStitching.cpp
+         cvStitching.cpp
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\include\boost\filesystem\config.hpp(28): fatal error C1083: 无法打开包括文件: “boost/config.hpp”: No such file or directory
+     1>已完成生成项目“E:\上课材料和作业\计算机\计算机视觉\研究生\Final1\ImageStitching_3140103549\Code\cvStitching\cvStitching\cvStitching.vcxproj”(ClCompile 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.25
